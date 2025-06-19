@@ -2,6 +2,8 @@
 
 A bash script to analyse basic server performance stats. Developed and tested on ubuntu - AWS EC2
 
+---
+
 ## Getting Started
 
 1. **Clone the repository**
