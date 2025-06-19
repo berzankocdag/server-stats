@@ -1,6 +1,6 @@
 # Server Performance Stats
 
-A bash script to analyse basic server performance stats. Tested on ubuntu - EC2
+A bash script to analyse basic server performance stats. Developed and tested on ubuntu - AWS EC2
 
 ## Getting Started
 
